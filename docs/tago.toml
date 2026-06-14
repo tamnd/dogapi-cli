@@ -1,0 +1,10 @@
+title       = "dogapi"
+baseURL     = "https://dogapi-cli.tamnd.com/"
+description = "Dog breeds and random images from dog.ceo."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dogapi-cli"
